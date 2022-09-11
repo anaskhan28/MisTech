@@ -1,4 +1,4 @@
-# MisTech- Tech Components at its best price
+# MisTech- e-commerce website
    <p> This is an e-commerece website designed by me and my team!</p>
    <img src = "https://github.com/anaskhan28/MisTech/blob/main/screenshots/home.png" height = 500px width = 700px <link href = "https://anaskhan28.github.io/MisTech/"></img>
    <p> We have use BootStrap Template to designed this website and to add more effects the images are used from pixel.</p>
